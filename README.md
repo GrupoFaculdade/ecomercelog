@@ -2,6 +2,4 @@
 
 Abertura proiejto loja virtual
 
-Teste do repositório local
-
-
+Teste modificação do arquivo em repositório local.
